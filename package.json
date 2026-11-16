@@ -1,0 +1,9 @@
+{
+  "name": "remint-smart-waste",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Remint: a lightweight smart waste sorting and collection prototype",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
